@@ -435,4 +435,16 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     ),
+    (
+        "Demon Slayer: Kimetsu No Yaiba",
+        "Haruo Sotozaki",
+        2025,
+        [ 
+            "Natsuki Kamado",
+            "Kana Hanazawa",
+            "Saori Hayami",
+            "Reina Ueda",
+        ],
+
+    )
 ]

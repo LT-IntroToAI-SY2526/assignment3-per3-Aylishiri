@@ -7,8 +7,8 @@ author: |
   | Assignment evolved at Pomona College through several instructors' offerings,
   | with changes by Nathan Shelly and Sara Sood, Northwestern University.
 geometry: margin=1in
-urlcolor: cyan
----
+urlpcolor: cyan
+---*
 
 In this assignment, we begin to construct a natural language query system. We will create a program that will participate in dialogs like the following.
 
